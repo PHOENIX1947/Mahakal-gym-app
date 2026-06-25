@@ -1,0 +1,6 @@
+{
+  "name": "Mahakal Gym",
+  "description": "Premium fitness studio app with membership plans, trainer profiles, BMI/BMR health calculators, and interactive class guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
